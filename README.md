@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hi, my name is Alex Mauriz and I'm a new software developer. My hobbies include but are not limited to; martial arts, reading, gaming, and modifying cars. 
 <!--
 **alxm01/alxm01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
